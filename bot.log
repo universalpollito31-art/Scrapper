@@ -1,0 +1,63 @@
+2026-03-01 16:54:21,593 - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2026-03-01 16:54:24,399 - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2026-03-01 16:54:25,671 - INFO - Phone migrated to 1
+2026-03-01 16:54:25,672 - INFO - Reconnecting to new data center 1
+2026-03-01 16:54:25,902 - INFO - Disconnecting from 149.154.167.51:443/TcpFull...
+2026-03-01 16:54:25,903 - INFO - Disconnection from 149.154.167.51:443/TcpFull complete!
+2026-03-01 16:54:25,904 - INFO - Connecting to 149.154.175.53:443/TcpFull...
+2026-03-01 16:54:27,610 - INFO - Connection to 149.154.175.53:443/TcpFull complete!
+2026-03-01 16:54:28,277 - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2026-03-01 16:54:32,524 - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2026-03-01 16:54:51,251 - INFO - Phone migrated to 1
+2026-03-01 16:54:51,453 - INFO - Reconnecting to new data center 1
+2026-03-01 16:54:51,497 - INFO - Disconnecting from 149.154.167.51:443/TcpFull...
+2026-03-01 16:54:51,499 - INFO - Disconnection from 149.154.167.51:443/TcpFull complete!
+2026-03-01 16:54:51,500 - INFO - Connecting to 149.154.175.53:443/TcpFull...
+2026-03-01 16:54:53,859 - INFO - Connection to 149.154.175.53:443/TcpFull complete!
+2026-03-01 16:55:24,552 - WARNING - ❌ Tarjeta con mes inválido descartada: 999985298515790
+2026-03-01 16:55:24,554 - WARNING - ❌ Tarjeta con mes inválido descartada: 998885298521401
+2026-03-01 16:55:24,554 - WARNING - ❌ Tarjeta con mes inválido descartada: 5011777777778525
+2026-03-01 16:55:31,318 - WARNING - ❌ Tarjeta con mes inválido descartada: 228885252879575
+2026-03-01 16:55:31,327 - WARNING - ❌ Tarjeta con mes inválido descartada: 528494258587852
+2026-03-01 16:55:31,328 - WARNING - ❌ Tarjeta no pasó Luhn descartada: 9247228526184075
+2026-03-01 16:55:31,328 - WARNING - ❌ Tarjeta con mes inválido descartada: 228885252879575
+2026-03-01 16:55:31,349 - WARNING - ❌ Tarjeta no pasó Luhn descartada: 6190715703311681
+2026-03-01 16:55:31,349 - WARNING - ❌ Tarjeta no pasó Luhn descartada: 8657665516816899
+2026-03-01 16:55:31,350 - WARNING - ❌ Tarjeta con mes inválido descartada: 0331168168998617
+2026-03-01 16:55:38,501 - WARNING - ❌ Tarjeta no pasó Luhn descartada: 6190715703311681
+2026-03-01 16:55:38,501 - WARNING - ❌ Tarjeta no pasó Luhn descartada: 8657665516816899
+2026-03-01 16:55:38,501 - WARNING - ❌ Tarjeta con mes inválido descartada: 6177715057018527
+2026-03-01 16:56:45,806 - WARNING - ❌ Tarjeta con mes inválido descartada: 891885297133479
+2026-03-01 16:56:45,811 - WARNING - ❌ Tarjeta con mes inválido descartada: 918385265701536
+2026-03-01 16:56:45,914 - WARNING - ❌ Tarjeta con mes inválido descartada: 228885252879575
+2026-03-01 16:56:46,002 - WARNING - ❌ Tarjeta con mes inválido descartada: 2720735085294537
+2026-03-01 16:56:46,003 - WARNING - ❌ Tarjeta con mes inválido descartada: 024385362023066
+2026-03-01 16:56:46,055 - WARNING - ❌ Tarjeta con mes inválido descartada: 999985298515790
+2026-03-01 16:56:46,056 - WARNING - ❌ Tarjeta con mes inválido descartada: 998885298521401
+2026-03-01 16:56:46,056 - WARNING - ❌ Tarjeta con mes inválido descartada: 5011777777778525
+2026-03-01 16:56:46,186 - WARNING - ❌ Tarjeta con mes inválido descartada: 165855533606800
+2026-03-01 16:56:46,186 - WARNING - ❌ Tarjeta con mes inválido descartada: 565214547284800
+2026-03-01 16:56:46,189 - WARNING - ❌ Tarjeta con mes inválido descartada: 165855533606800
+2026-03-01 16:56:46,189 - WARNING - ❌ Tarjeta con mes inválido descartada: 565214547284800
+2026-03-01 16:56:46,201 - WARNING - ❌ Tarjeta con mes inválido descartada: 228885252879575
+2026-03-01 16:56:46,202 - WARNING - ❌ Tarjeta con mes inválido descartada: 000685266151239
+2026-03-01 16:56:46,305 - WARNING - ❌ Tarjeta con mes inválido descartada: 590576140523852
+2026-03-01 16:56:46,305 - WARNING - ❌ Tarjeta no pasó Luhn descartada: 1916674226184075
+2026-03-01 16:56:46,306 - WARNING - ❌ Tarjeta con mes inválido descartada: 2720735085294537
+2026-03-01 16:56:46,306 - WARNING - ❌ Tarjeta con mes inválido descartada: 024385362023066
+2026-03-01 16:56:46,307 - WARNING - ❌ Tarjeta con mes inválido descartada: 314585297174103
+2026-03-01 16:56:46,307 - WARNING - ❌ Tarjeta con mes inválido descartada: 918385265701536
+2026-03-01 16:56:49,078 - WARNING - ❌ Tarjeta no pasó Luhn descartada: 6190715703311681
+2026-03-01 16:56:49,079 - WARNING - ❌ Tarjeta no pasó Luhn descartada: 8657665516816899
+2026-03-01 16:56:49,079 - WARNING - ❌ Tarjeta con mes inválido descartada: 0331168168998617
+2026-03-01 16:57:49,070 - WARNING - ❌ Tarjeta con mes inválido descartada: 111885257275481
+2026-03-01 16:57:49,072 - WARNING - ❌ Tarjeta con mes inválido descartada: 184385298465990
+2026-03-01 16:57:49,075 - WARNING - ❌ Tarjeta con mes inválido descartada: 891885297133479
+2026-03-01 16:57:49,075 - WARNING - ❌ Tarjeta con mes inválido descartada: 918385265701536
+2026-03-01 16:57:49,268 - WARNING - ❌ Tarjeta con mes inválido descartada: 228885252879575
+2026-03-01 16:57:49,463 - WARNING - ❌ Tarjeta con mes inválido descartada: 228885252879575
+2026-03-01 16:57:49,464 - WARNING - ❌ Tarjeta con mes inválido descartada: 228885252879575
+2026-03-01 16:57:49,464 - WARNING - ❌ Tarjeta con mes inválido descartada: 228885252879575
+2026-03-01 16:57:49,465 - WARNING - ❌ Tarjeta no pasó Luhn descartada: 770719658686866
+2026-03-01 16:58:00,624 - WARNING - ❌ Tarjeta con mes inválido descartada: 891885297133479
+2026-03-01 16:58:00,624 - WARNING - ❌ Tarjeta con mes inválido descartada: 918385265701536
